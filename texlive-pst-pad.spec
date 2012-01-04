@@ -6,7 +6,7 @@
 # catalog-version 0.3b
 Name:		texlive-pst-pad
 Version:	0.3b
-Release:	1
+Release:	2
 Summary:	Draw simple attachment systems with PSTricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-pad
