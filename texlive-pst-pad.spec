@@ -1,6 +1,6 @@
 Name:		texlive-pst-pad
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Draw simple attachment systems with PSTricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-pad
